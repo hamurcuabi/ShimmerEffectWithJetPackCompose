@@ -7,9 +7,9 @@ Shimmer effect created with jetpack compose :partying_face:
 
 # How It Works :roll_eyes:
 
-1. Lets create a list of color
+ 1. Lets create a list of color
 
-	```val colors = listOf(
+       val colors = listOf(
     Color.Gray.copy(alpha = 0.9f),
     Color.Gray.copy(alpha = 0.8f),
     Color.Gray.copy(alpha = 0.9f))
